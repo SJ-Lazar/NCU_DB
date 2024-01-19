@@ -57,6 +57,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Scripts" />
+    <Folder Include="Resources" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Scripts\0 - DatabaseConcepts.sql" />
